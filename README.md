@@ -1,3 +1,5 @@
+Prototype of a food ordering app made with python
+
 To run this progarm you need to have the following :
 1) My SQL
 2) Python
